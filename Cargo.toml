@@ -1,0 +1,13 @@
+[package]
+name = "placenta"
+version = "1.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+arboard = "3.2.1"
+clearscreen = "2.0.1"
+getopts = "0.2"
+polars = { version = "0.34.2", features = ["lazy"] }
+text_io = "0.1.12"
