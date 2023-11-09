@@ -1,0 +1,13 @@
+C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\deps\target_features-9337bebd9d0d889c.rmeta: C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.5\src\lib.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.5\src\simd.rs C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/generated.md C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/generated.rs C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/docs.rs
+
+C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\deps\libtarget_features-9337bebd9d0d889c.rlib: C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.5\src\lib.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.5\src\simd.rs C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/generated.md C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/generated.rs C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/docs.rs
+
+C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\deps\target_features-9337bebd9d0d889c.d: C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.5\src\lib.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.5\src\simd.rs C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/generated.md C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/generated.rs C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/docs.rs
+
+C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.5\src\lib.rs:
+C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.5\src\simd.rs:
+C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/generated.md:
+C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/generated.rs:
+C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\build\target-features-1e31a0ff8f06a655\out/docs.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\gbroe\\Documents\\Github\\placenta_rust_cli\\target\\debug\\build\\target-features-1e31a0ff8f06a655\\out

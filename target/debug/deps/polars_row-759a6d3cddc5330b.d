@@ -1,0 +1,11 @@
+C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\deps\polars_row-759a6d3cddc5330b.rmeta: C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\lib.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\decode.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\encode.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\fixed.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\row.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\utils.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\variable.rs
+
+C:\Users\gbroe\Documents\Github\placenta_rust_cli\target\debug\deps\polars_row-759a6d3cddc5330b.d: C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\lib.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\decode.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\encode.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\fixed.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\row.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\utils.rs C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\variable.rs
+
+C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\lib.rs:
+C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\decode.rs:
+C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\encode.rs:
+C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\fixed.rs:
+C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\row.rs:
+C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\utils.rs:
+C:\Users\gbroe\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polars-row-0.34.2\src\variable.rs:
