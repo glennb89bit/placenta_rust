@@ -12,11 +12,23 @@ use polars::prelude::*;
 use arboard::Clipboard;
 use clearscreen::clear;
 use std::io::{stdin, stdout, Read, Write};
+use std::env;
+use colored::Colorize;
 
 // Define constants
 const REF: &str = "Reference: Heerema-McKenney, Popek, De Paepa. Diagnostic Pathology: Placenta. 2nd edition. Elsevier 2019";
 
+// Define environmental variables
+
+fn setvar() {
+    env::set_var("POLARS_FMT_TABLE_ROUNDED_CORNERS", "1");
+    env::set_var("POLARS_FMT_TABLE_HIDE_DATAFRAME_SHAPE_INFORMATION", "1");
+    env::set_var("POLARS_FMT_TABLE_HIDE_COLUMN_DATA_TYPES", "1");
+    env::set_var("POLARS_FMT_TABLE_CELL_ALIGNMENT", "CENTER");
+}
+
 fn main() {
+    setvar();
     // Clear screen and show welcome message
     clear().expect("Failed to clear screen");
     println!(r#"    
@@ -148,7 +160,7 @@ fn singleton(age: i32, weight: i32) {
         .unwrap();
 
     if filter.shape().0 == 1 {
-        println!("{}", filter)
+        println!("{}\n", filter)
     } else {
         panic!("Geen gewichten voor opgegeven zwangerschapsduur beschikbaar")
     }
@@ -164,7 +176,7 @@ fn singleton(age: i32, weight: i32) {
     weightvector.remove(0);
 
     let result = closest(weight, weightvector);
-    println!("Resultaat: {}", result);
+    println!("Resultaat: {}", result.green().bold());
     println!("{}\n", REF);
 
     // Copy result to clipboard
